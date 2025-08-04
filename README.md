@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 [![CircleCI](https://circleci.com/gh/apostrophecms/apostrophe-headless/tree/master.svg?style=svg)](https://circleci.com/gh/apostrophecms/apostrophe-headless/tree/master)
 
 ## Apostrophe as a headless CMS
